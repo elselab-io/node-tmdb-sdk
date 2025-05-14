@@ -20,4 +20,5 @@ class TMDB {
   }
 }
 
-export default TMDB; 
+export { TMDB };
+export default TMDB;
