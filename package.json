@@ -4,6 +4,7 @@
   "description": "A lightweight JavaScript SDK for The Movie Database (TMDB) REST API",
   "type": "module",
   "main": "src/index.js",
+  "types": "types/elselab-node-tmdb-sdk.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -36,6 +37,7 @@
   "files": [
     "src/",
     "examples/",
+    "types/",
     "README.md",
     "LICENSE"
   ],
