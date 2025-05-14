@@ -1,6 +1,6 @@
 {
   "name": "@elselab/node-tmdb-sdk",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A lightweight JavaScript SDK for The Movie Database (TMDB) REST API",
   "type": "module",
   "main": "src/index.js",
