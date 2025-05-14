@@ -1,0 +1,40 @@
+# Source control
+.git/
+.gitignore
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Test files
+test/
+coverage/
+
+# CI/CD
+.github/
+.travis.yml
+.gitlab-ci.yml
+
+# Development configs
+.eslintrc
+.prettierrc
+.editorconfig
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# Build output
+dist/
+build/
+
+# Misc
+.env
+*.log 
