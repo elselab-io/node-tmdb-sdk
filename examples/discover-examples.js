@@ -1,7 +1,7 @@
 import TMDB from '../src/index.js';
 
 // Initialize the SDK with your API key
-const tmdb = new TMDB('eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyNDJiMjlmOGI2MmVhNDM3YjZhYjZlOWNjOWNkMjU4MSIsIm5iZiI6MTcxNjg5NjQ5MC4xNDQsInN1YiI6IjY2NTVjMmVhOGY3NmI3ZjBjMTM2MGQ3ZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.zyYDm6Ky32lbVnmgSKl4ebRYb9MQ2eroNo1GZmeoO3c');
+const tmdb = new TMDB('');
 
 // Example 1: Discover popular movies
 async function discoverPopularMovies() {
