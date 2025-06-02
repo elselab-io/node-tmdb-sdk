@@ -1,6 +1,6 @@
 {
   "name": "@elselab/node-tmdb-sdk",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A lightweight JavaScript SDK for The Movie Database (TMDB) REST API",
   "type": "module",
   "main": "src/index.js",
@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elselabdev/node-tmdb-sdk.git"
+    "url": "git+https://github.com/elselab-io/node-tmdb-sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/elselabdev/node-tmdb-sdk/issues"
+    "url": "https://github.com/elselab-io/node-tmdb-sdk/issues"
   },
-  "homepage": "https://github.com/elselabdev/node-tmdb-sdk#readme",
+  "homepage": "https://github.com/elselab-io/node-tmdb-sdk#readme",
   "engines": {
     "node": ">=14.0.0"
   },
